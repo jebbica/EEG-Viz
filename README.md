@@ -2,7 +2,7 @@
 
 ## Window Overview ##
 
-<img src="https://github.com/jebbica/EEG_Viz/blob/main/img/EEG%20Viz%20Window.png" >
+<img src="https://github.com/jebbica/EEG-Viz/blob/main/img/EEG%20Viz%20Window.png" >
 
 ## Usage ##
 1. Import and load EEG *.edf file 
@@ -11,7 +11,7 @@
 ### Loading an EDF ###
 The user can select a *.edf file to import and load for analysis of the EEG data.
 
-<img src="https://github.com/jebbica/EEG_Viz/blob/main/img/open%20file.png" >
+<img src="https://github.com/jebbica/EEG-Viz/blob/main/img/open%20file.png" >
 
 1. To load an edf, click on the `Open EDF` button on the upper left corner of the window.
 2. A window will open to select the edf file to open. Only valid files (*.edf) can be loaded into the application. 
@@ -21,13 +21,13 @@ The user can select a *.edf file to import and load for analysis of the EEG data
 ### Display Settings ###
 Options are provided to change the display of the waveforms in the Display box.
 
-<img src="https://github.com/jebbica/EEG_Viz/blob/main/img/display.png" >
+<img src="https://github.com/jebbica/EEG-Viz/blob/main/img/display.png" >
 
 
 Users can choose any channel(s) to display. One or multiple electrodes can be selected for viewing. To include channels to process, click the `Choose Channels` button.
 
 <p align="center">
-<img src="https://github.com/jebbica/EEG_Viz/blob/main/img/channel%20selection.png" >
+<img src="https://github.com/jebbica/EEG-Viz/blob/main/img/channel%20selection.png" >
 </p>
 
 A window will open, allowing users to select any number of channels. Select which channels to view, and click the OK button.
@@ -38,7 +38,7 @@ A window will open, allowing users to select any number of channels. Select whic
 - Use the `Normalize Vertically` checkbox to toggle between the normalized and unnormalized signal.
   
 <p align="center">
-<img src="https://github.com/jebbica/EEG_Viz/blob/main/img/signal%20example.png" >
+<img src="https://github.com/jebbica/EEG-Viz/blob/main/img/signal%20example.png" >
 </p>
 
 ### Plotting Time Frequency Graph ###
@@ -48,7 +48,7 @@ Users have the option of viewing the time frequency plot of a single electrode a
 3. Use the legend on the right side to change the color palette of the plot
    
 <p align="center">
-<img src="https://github.com/jebbica/EEG_Viz/blob/main/img/tf%20plot.png" >
+<img src="https://github.com/jebbica/EEG-Viz/blob/main/img/tf%20plot.png" >
 </p>
 
 To change the time interval, return to the main window and change the interval of the main waveform, then reopen the time frequency plot.
