@@ -56,13 +56,13 @@ To change the time interval, return to the main window and change the interval o
 ## Contributors: ##
 Department of Electrical and Computer Engineering, University of California, Los Angeles
 
-- Jessica Lin
-- Lawrence Liu
-- Yipeng Zhang
+- [Jessica Lin](https://www.linkedin.com/in/jessica4903/)
+- [Lawrence Liu](https://www.linkedin.com/in/lawrence-liu-0a01391a7/)
+- [Yipeng Zhang](https://zyp5511.github.io/)
 
 Division of Pediatric Neurology, Department of Pediatrics, UCLA Mattel Children’s Hospital David Geffen School of Medicine
 
-- Hiroki Nariai
+- [Hiroki Nariai](https://www.uclahealth.org/providers/hiroki-nariai)
 
 EEG Visualizer references code from pyHFO
 
